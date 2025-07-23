@@ -1,39 +1,6 @@
 # Desafío Wireshark
-
- 
-
+https://elearning.securityblue.team/home/courses/free-courses/introduction-to-network-analysis#content#analysis-with-wireshark#introduction-to-wireshark#activity-wireshark-challenge
 En esta actividad, pondrás a prueba tus nuevos conocimientos de Wireshark analizando dos PCAP, cuya dificultad aumenta. Podrás completar ambos desafíos utilizando los conocimientos adquiridos en las lecciones anteriores del curso.
-
-Descargo de responsabilidad
-
-Tenga en cuenta que los archivos incluidos en el material "Análisis con Wireshark" tienen fines educativos y de práctica. Estos archivos son propiedad del equipo de Security Blue y han sido revisados exhaustivamente para garantizar su seguridad.
-
-Alertas de seguridad del navegador:
-
-Es posible que Chrome u otros navegadores web muestren advertencias o indicadores que indiquen que los archivos pueden ser maliciosos. Esta es una medida de precaución común que implementan los navegadores debido a sus protocolos de seguridad integrados. Estas alertas suelen activarse por la naturaleza del archivo, no por su contenido.
-Garantía de seguridad:
-
-Le aseguramos que estos archivos no contienen malware ni contenido dañino. Han sido creados y verificados específicamente por el equipo de Security Blue para su uso instructivo en formación en ciberseguridad.
-Instrucciones de uso:
-
-Si le preocupa ejecutar estos archivos en su sistema host, puede considerar utilizar una máquina virtual o un entorno aislado para mayor seguridad.
-Si tiene más preguntas o aclaraciones, consulte nuestros recursos de soporte o comuníquese con nuestro equipo de soporte a través de studentsupport@securityblue.team.
-Pruebe un navegador diferente: recomendamos descargar el archivo de actividad utilizando un navegador alternativo como Firefox.
-Software antivirus: si tiene instalado Avast, le sugerimos desinstalarlo temporalmente para ver si resuelve el problema de descarga, en caso de que surja.
-Gracias por su comprensión y cooperación.
-
-Equipo Azul de Seguridad
-
-
- 
-
-Los archivos no pueden redistribuirse sin el consentimiento expreso del Equipo de Seguridad Azul. Todos los derechos de propiedad intelectual nos pertenecen.
-
- 
-
- 
-
- 
 
 Preguntas sobre la actividad de Wireshark
  
