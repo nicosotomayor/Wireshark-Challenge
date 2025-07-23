@@ -1,16 +1,22 @@
 # Desafío Wireshark
+---
+
 https://elearning.securityblue.team/home/courses/free-courses/introduction-to-network-analysis#content#analysis-with-wireshark#introduction-to-wireshark#activity-wireshark-challenge
+
+---
 En esta actividad, pondrás a prueba tus nuevos conocimientos de Wireshark analizando dos PCAP, cuya dificultad aumenta. Podrás completar ambos desafíos utilizando los conocimientos adquiridos en las lecciones anteriores del curso.
 
 Preguntas sobre la actividad de Wireshark
  
+---
 
 PCAP 1
 ¿Qué protocolo se utilizó en el puerto 3942?
 ¿Cuál es la dirección IP del host al que se le hizo ping dos veces?
 ¿Cuántos paquetes de respuesta de consulta DNS fueron capturados?
 ¿Cuál es la dirección IP del host que envió la mayor cantidad de bytes?
- 
+
+---
 
 PCAP 2
 ¿Cuál es la contraseña de WebAdmin?
@@ -18,6 +24,7 @@ PCAP 2
 ¿Qué puerto se utilizó para obtener acceso al host Windows de la víctima?
 ¿Cuál es el nombre de un archivo confidencial en el host de Windows?
 ¿Cuál es el nombre del archivo de registro que se creó a las 4:51 a. m. en el host de Windows?
+
 ---
 
 ## PCAP 1 – Pregunta 1  
