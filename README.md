@@ -1,31 +1,29 @@
-# Desafío Wireshark
----
 
-https://elearning.securityblue.team/home/courses/free-courses/introduction-to-network-analysis#content#analysis-with-wireshark#introduction-to-wireshark#activity-wireshark-challenge
+## Desafío Wireshark 
 
----
-En esta actividad, pondrás a prueba tus nuevos conocimientos de Wireshark analizando dos PCAP, cuya dificultad aumenta. Podrás completar ambos desafíos utilizando los conocimientos adquiridos en las lecciones anteriores del curso.
-
-Preguntas sobre la actividad de Wireshark
- 
----
-
-PCAP 1
-¿Qué protocolo se utilizó en el puerto 3942?
-¿Cuál es la dirección IP del host al que se le hizo ping dos veces?
-¿Cuántos paquetes de respuesta de consulta DNS fueron capturados?
-¿Cuál es la dirección IP del host que envió la mayor cantidad de bytes?
+En esta actividad de [Introduction to Network Analysis](https://elearning.securityblue.team/home/courses/free-courses/introduction-to-network-analysis#content#analysis-with-wireshark#introduction-to-wireshark#activity-wireshark-challenge), pondrás a prueba tus conocimientos analizando dos archivos PCAP de dificultad creciente.
 
 ---
 
-PCAP 2
-¿Cuál es la contraseña de WebAdmin?
-¿Cuál es el número de versión del servidor FTP del atacante?
-¿Qué puerto se utilizó para obtener acceso al host Windows de la víctima?
-¿Cuál es el nombre de un archivo confidencial en el host de Windows?
-¿Cuál es el nombre del archivo de registro que se creó a las 4:51 a. m. en el host de Windows?
+### PCAP 1
+
+1. **Protocolo en puerto 3942**  
+2. **IP del host con 2 pings**  
+3. **Cantidad de respuestas de consulta DNS capturadas**  
+4. **IP del host que envió más bytes**
 
 ---
+
+### PCAP 2
+
+1. **Contraseña de WebAdmin**  
+2. **Versión del servidor FTP del atacante**  
+3. **Puerto usado para acceder al host Windows víctima**  
+4. **Nombre de un archivo confidencial en el host Windows**  
+5. **Nombre del archivo de log creado a las 04:51 AM en el host Windows**
+
+---
+
 
 ## PCAP 1 – Pregunta 1  
 **Protocolo en puerto 3942:** SSDP  
