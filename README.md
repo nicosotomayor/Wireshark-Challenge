@@ -1,9 +1,4 @@
-# Desafío Wireshark 
-Actividad) Desafío Wireshark
-Análisis con Wireshark
-Introducción a Wireshark
-Actividad) Desafío Wireshark
-Completo
+# Desafío Wireshark
 
  
 
